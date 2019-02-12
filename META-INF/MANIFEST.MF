@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Scava Test OSGi Repo
+Bundle-SymbolicName: scava-test-osgi-repo
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: scava-test-osgi-repo
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.google.guava;bundle-version="16.0.0"
